@@ -1,4 +1,4 @@
-FROM ruby:2.5
+FROM ruby:3.3.0-preview1-slim
 
 # Environment Variables
 ENV LC_ALL=C.UTF-8

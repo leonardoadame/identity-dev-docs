@@ -8,5 +8,5 @@ gem 'jekyll-sitemap'
 
 group :test do
   gem 'rspec'
-  gem 'nokogiri', '>= 1.10.5'
+  gem 'nokogiri', '>= 1.15.6'
 end
